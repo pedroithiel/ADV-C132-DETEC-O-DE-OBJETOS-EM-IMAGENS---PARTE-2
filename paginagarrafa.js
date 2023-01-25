@@ -1,6 +1,6 @@
 var objectDetector;
 var confirma;
-var array;
+var array = [];
 
 function logout() {
     window.location = "index.html";

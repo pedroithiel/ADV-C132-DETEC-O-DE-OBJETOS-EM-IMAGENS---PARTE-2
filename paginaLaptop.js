@@ -1,7 +1,7 @@
 
 var objectDetector;
 var confirma;
-var objeto;
+var objeto = [];
 
 function logout() {
     window.location = "index.html";
@@ -9,7 +9,7 @@ function logout() {
 
 
 function preload() {
-    img = loadImage("laptop.jpg");
+    img = loadImage("LAP.webp");
 }
 
 function setup() {

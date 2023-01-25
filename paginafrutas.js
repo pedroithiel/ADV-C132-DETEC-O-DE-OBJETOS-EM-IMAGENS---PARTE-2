@@ -1,6 +1,6 @@
 var objectDetector;
 var confirma;
-var array;
+var array = [];
 
 function logout() {
     window.location = "index.html";
@@ -8,7 +8,7 @@ function logout() {
 
 
 function preload() {
-    img = loadImage("frutas.webp");
+    img = loadImage("Apple.png");
 }
 
 function setup() {
